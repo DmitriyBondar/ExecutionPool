@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskExecutionPool", "TaskExecutionPool\TaskExecutionPool.csproj", "{A0A2067C-C8C1-44A1-8309-6D04D1DC47ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskExecutionPoolTests", "TaskExecutionPoolTests\TaskExecutionPoolTests.csproj", "{F3817155-CA28-4C3F-A9F4-1550B90876DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0A2067C-C8C1-44A1-8309-6D04D1DC47ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A2067C-C8C1-44A1-8309-6D04D1DC47ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A2067C-C8C1-44A1-8309-6D04D1DC47ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A2067C-C8C1-44A1-8309-6D04D1DC47ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3817155-CA28-4C3F-A9F4-1550B90876DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3817155-CA28-4C3F-A9F4-1550B90876DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3817155-CA28-4C3F-A9F4-1550B90876DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3817155-CA28-4C3F-A9F4-1550B90876DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

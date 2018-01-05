@@ -1,0 +1,5 @@
+D:\Projects\TaskExecutionPool\TaskExecutionPool\bin\Debug\TaskExecutionPool.dll
+D:\Projects\TaskExecutionPool\TaskExecutionPool\bin\Debug\TaskExecutionPool.pdb
+D:\Projects\TaskExecutionPool\TaskExecutionPool\obj\Debug\TaskExecutionPool.csprojResolveAssemblyReference.cache
+D:\Projects\TaskExecutionPool\TaskExecutionPool\obj\Debug\TaskExecutionPool.dll
+D:\Projects\TaskExecutionPool\TaskExecutionPool\obj\Debug\TaskExecutionPool.pdb
